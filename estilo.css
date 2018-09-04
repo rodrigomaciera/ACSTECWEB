@@ -1,0 +1,41 @@
+.titulo {
+    font-size: 30px;
+    font-style: italic;
+    color: #FF0000;
+    text-align: center;
+    text-decoration: underline;
+}
+
+.introducao {
+    font-size: 25px;
+    color: #000000;
+    text_align: left;
+}
+
+.segundotitulo {
+   font-size: 20px;
+   color: #000000;
+   
+}
+
+.sublinhado {
+    text-decoration: underline;
+   
+}
+
+.vermelho {
+    color: #FF0000;
+	font-size: 14px;
+}
+
+.verde {
+    color: #32CD32;
+	font-size: 14px;
+}
+	
+.fonte {
+    color: #191970;
+    font-size: 20px;
+}
+
+	
